@@ -14,3 +14,9 @@ to build more progressive projects for real world adaptation.
 -This project was built while following and expanding
 on the following tutorial:
 -[9 Hours of Python Projects](https://youtu.be/NpmFbWO6HPU?si=mTunJC0JSIYVdhRn&t=4037)
+
+## Future Improvements
+-Add my own features
+-Refactor the code
+-Improve error handling
+-Continue expanding the project
